@@ -17,7 +17,7 @@
   <h3>🔹 CCNA | Security Analyst | Software Game & WEB Developer | Network Engineer 🔹</h3>
   
   <p align="center">
-    <em>Yearning to gaze upon her before I sleep forever to feel the reality of our love beyond dreams. <strong>_Farha_</strong></em>
+    <em>Yearning to gaze upon her before I sleep forever to feel the reality of our love beyond dreams. <strong>_Zeny_</strong></em>
   </p>
 
   <!-- Quick Links -->

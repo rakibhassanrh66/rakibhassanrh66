@@ -85,5 +85,5 @@
 ---
 
 <div align="center">
-  <sub> It's better hardwork or the talets inbound <strong>Rakib Hassan</strong> • © <span id="current-year"><!-- YEAR -->2024<!-- END_YEAR --></span></sub>
+  <sub> It's better hardwork or the talets inbound <strong>Rakib Hassan</strong> • © <span id="current-year"><!-- YEAR -->2026<!-- END_YEAR --></span></sub>
 </div>
